@@ -1,6 +1,6 @@
 ## Hey there, I'm Abdulla 👋🏽
 
-💻 Full‑Stack Developer & Narrative Architect <br />
+💻 Full‑Stack Developer & Assistant Director <br />
 🧠 Passionate about blending code, design, and storytelling... <br />
 ⚡️ Currently exploring modern frameworks & tools <br />
 🤝🏽 Excited to contribute to meaningful projects & experiences <br />
